@@ -25,18 +25,6 @@
 - Web application security (OWASP Top 10)
 - SIEM implementation and log analysis
 
-## 🛠️ Most Used Tools & Technologies
-<!-- TOOLS_STATS_START -->
-<!-- This section is automatically updated by GitHub Actions -->
-- **Rust**: Secure systems development
-- **Python**: Automation & cybersecurity tools
-- **Linux**: System administration & hardening
-- **Docker**: Containerization
-- **Git**: Version control
-- **VS Code**: Development environment
-- **Wireshark**: Network analysis
-- **Burp Suite**: Web application security testing
-<!-- TOOLS_STATS_END -->
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
