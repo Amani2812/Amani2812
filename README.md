@@ -36,11 +36,6 @@
   <img src="https://streak-stats.demolab.com/?user=Amani2812&theme=onedark&hide_border=true&cache_seconds=86400" alt="Amani2812's GitHub Streak" width="49%" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Amani2812">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Amani2812&langs_count=8&layout=compact&theme=onedark&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
 
 ## 🔗 Connect with Me
 <p align="center">
