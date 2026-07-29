@@ -35,7 +35,7 @@
 - **Git**: Version control
 - **VS Code**: Development environment
 - **Wireshark**: Network analysis
-- **Nmap**: Port scanning & reconnaissance
+- **Burp Suite**: Web application security testing
 <!-- TOOLS_STATS_END -->
 
 ## 📊 GitHub Stats & Trophies
