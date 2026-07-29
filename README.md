@@ -12,19 +12,31 @@
 - Building real-time systems, automation tools, and secure applications
 - Currently completing the Google Cybersecurity Professional Certificate
 
-
 ## 🧠 My Focus Areas
-- Cybersecurity Transition
+### Cybersecurity Transition
 - Applying software engineering principles to cybersecurity challenges
 - Building secure, resilient applications with Rust
 - Automating security workflows and threat detection
 - Learning SOC operations, incident response, and SIEM tools
-- Current Technical Focus
+
+### Current Technical Focus
 - Linux system hardening and network security
 - Secure coding practices in Rust and Python
 - Web application security (OWASP Top 10)
 - SIEM implementation and log analysis
 
+## 🛠️ Most Used Tools & Technologies
+<!-- TOOLS_STATS_START -->
+<!-- This section is automatically updated by GitHub Actions -->
+- **Rust**: Secure systems development
+- **Python**: Automation & cybersecurity tools
+- **Linux**: System administration & hardening
+- **Docker**: Containerization
+- **Git**: Version control
+- **VS Code**: Development environment
+- **Wireshark**: Network analysis
+- **Nmap**: Port scanning & reconnaissance
+<!-- TOOLS_STATS_END -->
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
@@ -33,17 +45,10 @@
   </a>
   <img src="https://streak-stats.demolab.com/?user=Amani2812&theme=onedark&hide_border=true&cache_seconds=86400" alt="Amani2812's GitHub Streak" width="49%" />
 </p>
+
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=Amani2812&theme=onedark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Amani Ahmed's GitHub Trophies" />
 </p>
-
-## 📊 Coding Activity & Tools
-### Weekly Development Breakdown
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Amani2812&theme=tokyonight)
-
-### Most Used Tools
-![Top Editors](https://wakatime.com/share/@Amani2812/abc123def456.svg)
-![Top Operating Systems](https://wakatime.com/share/@Amani2812/def456ghi789.svg)
 
 <p align="center">
   <a href="https://github.com/Amani2812">
@@ -52,7 +57,6 @@
 </p>
 
 ![Top language](https://stats.pphat.top/languages?username=Amani2812)
-<br/>
 
 ## 🔗 Connect with Me
 <p align="center">
@@ -67,3 +71,4 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
+
