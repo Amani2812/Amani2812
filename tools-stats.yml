@@ -1,0 +1,36 @@
+name: Update Tools Stats
+on:
+  schedule:
+    - cron: '0 0 * * 0' # Weekly update every Sunday at midnight UTC
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update tools section
+        run: |
+          # Define your most used tools
+          tools="### 🛠️ Most Used Tools & Technologies\n\n"
+          tools+="- **Rust**: Secure systems development\n"
+          tools+="- **Python**: Automation & cybersecurity tools\n"
+          tools+="- **Linux**: System hardening & network security\n"
+          tools+="- **Docker**: Containerization\n"
+          tools+="- **Git**: Version control\n"
+          tools+="- **VS Code**: Development environment\n"
+          tools+="- **Wireshark**: Network analysis\n"
+          tools+="- **Nmap**: Port scanning & reconnaissance\n"
+
+          # Update README.md
+          sed -i '/## 🛠️ Most Used Tools & Technologies/,/##/{/## 🛠️ Most Used Tools & Technologies/{:a;n;/##/!ba};/## 🛠️ Most Used Tools & Technologies/!d}' README.md
+          echo "$tools" >> README.md
+
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Update tools stats [skip ci]"
+          committer_name: GitHub Actions
+          committer_email: actions@github.com
