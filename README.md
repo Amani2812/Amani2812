@@ -38,7 +38,7 @@
 
 
 ## 🔗 Connect with Me
-<p align="center">
+<p align="left">
   <a href="www.linkedin.com/in/amaniahmed123">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;
