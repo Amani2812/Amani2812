@@ -37,8 +37,6 @@
   <img src="https://trophy.ryglcloud.net/?username=Amani2812&theme=onedark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Amani Ahmed's GitHub Trophies" />
 </p>
 
-
-## 🛠️ Languages & Tools
 ## 📊 Coding Activity & Tools
 ### Weekly Development Breakdown
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Amani2812&theme=tokyonight)
