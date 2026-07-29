@@ -27,6 +27,8 @@
 
 
 ## 📊 GitHub Stats & Trophies
+![Top language](https://stats.pphat.top/languages?username=Amani2812)
+
 <p align="center">
   <a href="https://github.com/Amani2812">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Amani2812&cache_seconds=7200&layout=compact&theme=onedark&border_radius=10" alt="Amani2812's GitHub Stats" />
@@ -39,8 +41,6 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Amani2812&langs_count=8&layout=compact&theme=onedark&border_radius=10" alt="Top Languages" />
   </a>
 </p>
-
-![Top language](https://stats.pphat.top/languages?username=Amani2812)
 
 ## 🔗 Connect with Me
 <p align="center">
