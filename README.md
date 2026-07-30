@@ -21,7 +21,7 @@
 
 ### Current Technical Focus
 - Linux system hardening and network security
-- Secure coding practices in Rust and Python
+- Secure coding practices in Python
 - Web application security (OWASP Top 10)
 - SIEM implementation and log analysis
 
